@@ -1,6 +1,6 @@
 api_platform:
-    title: 'Project name'
-    description: 'Project description'
+    title: 'CRM API'
+    description: 'Customer relationship management API'
     version: '0.0.1'
 
     mapping:
